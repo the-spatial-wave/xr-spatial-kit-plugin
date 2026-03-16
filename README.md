@@ -2,7 +2,13 @@
 
 **Plugin ufficiale di [The Spatial Wave](https://github.com/the-spatial-wave)**
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/the-spatial-wave?label=Sponsor&logo=GitHub&color=ff69b4)](https://github.com/sponsors/the-spatial-wave)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Plugin-blueviolet)](https://github.com/the-spatial-wave/xr-spatial-kit-plugin)
+
 Un plugin per Claude Code che ti aiuta a costruire scene WebXR con React Three Fiber, Three.js e Vite — più velocemente, senza dover ricordare ogni parametro a memoria.
+
+> Se questo plugin ti è utile, considera di supportare il progetto tramite [GitHub Sponsors](https://github.com/sponsors/the-spatial-wave) ☕
 
 ---
 
