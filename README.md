@@ -150,6 +150,8 @@ Claude userà la skill `scene-texts` con font Orbitron caricato da CDN (`.woff` 
 
 Questo plugin è pensato per funzionare con **xr-reset-kit-starter**:
 
+**🌐 Demo live: [xr-reset-kit-starter.vercel.app](https://xr-reset-kit-starter.vercel.app)**
+
 ```bash
 git clone https://github.com/the-spatial-wave/xr-reset-kit-starter
 cd xr-reset-kit-starter
