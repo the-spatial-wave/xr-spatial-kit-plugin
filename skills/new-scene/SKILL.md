@@ -62,3 +62,11 @@ import { SceneName } from './scenes/SceneName'
 - Mai `color="transparent"` — Three.js non lo supporta
 - `ambientLight` intensity max 0.1
 - Sempre `<Effects />` come primo figlio
+
+## Workflow & Execution Rules (Workflow OS)
+- **Single-focus execution**: Lavora su una dimensione alla volta (scena, luci, UI).
+- **Scoped scene editing**: Definisci zona attiva e non toccare altre aree.
+- **Lighting contrast discipline**: Gerarchia chiara delle luci, evita il washout.
+- **Validation before completion**: Verifica chiarezza e assenza errori prima di chiudere.
+- **Plan Mode**: Per task complessi, definisci zona e outcome prima di iniziare.
+
